@@ -1,3 +1,7 @@
+body {
+    background-color: #999;
+}
+
 :root {
     --clr-dark: rgb(31 41 55);
     --clr-gray: rgb(107 114 120);
@@ -61,4 +65,8 @@ nav.link.active,
 #p font{
     font-style: Poppins;
     color: var(--clr-gray);
+}
+
+a {
+    text-decoration: none;
 }
